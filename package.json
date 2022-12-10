@@ -15,7 +15,7 @@
     "date-utils": "^1.2.21",
     "debug": "~2.6.9",
     "dotenv": "~6.2.0",
-    "express": "~4.16.1",
+    "express": "~4.17.3",
     "http-errors": "~1.6.3",
     "http-rabbitmq-manager": "0.0.4",
     "mariadb": "^2.4.0",
